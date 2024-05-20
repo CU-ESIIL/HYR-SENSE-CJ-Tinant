@@ -1,7 +1,7 @@
-site_name: 'HYR-SENSE workshop'
-site_description: 'Central resource for NASA-ESIIL HYR-SENSE workshop'
-site_author: ESIIL and NASA staff
-site_url: https://cu-esiil.github.io/HYR-SENSE
+site_name: 'HYR-SENSE workshop -- CJ Tinant'
+site_description: 'cjt resource for NASA-ESIIL HYR-SENSE workshop'
+site_author: ESIIL and NASA staff, CJ Tinant
+site_url: https://github.com/CU-ESIIL/HYR-SENSE-CJ-Tinant
 
 # Repository
 repo_name: HYR-SENSE
